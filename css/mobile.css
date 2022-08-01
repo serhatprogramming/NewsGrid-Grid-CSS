@@ -55,4 +55,9 @@
   .page-container ul li {
     text-align: left;
   }
+
+  h1 {
+    font-size: 2rem;
+    line-height: 2rem;
+  }
 }
